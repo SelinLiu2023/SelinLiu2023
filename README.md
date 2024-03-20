@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning CSS, later JavaScript....
    I grow up. 😄
+   - 🌱 I’m currently learning ...
 <!--
 **SelinLiu2023/SelinLiu2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
