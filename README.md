@@ -6,16 +6,9 @@ I'm a passionate web Developer with a strong foundation in creating beautiful, r
 
 ### 🛠️ Tech Stack:
 
-- **Languages**: HTML, CSS, JavaScript
+- **Languages**: HTML5, CSS, JavaScript
 - **Frameworks**: React
 - **Tools & Technologies**: Git, GitHub, VS Code, npm, Webpack
-
----
-
-### 🌱 Currently Learning:
-
-- Advanced React Patterns
-- TypeScript for React
 
 ---
 
